@@ -41,6 +41,7 @@ object Lint {
           linters.PathsDoNotHaveTrailingSlash,
           linters.ProxyQueryParameters,
           linters.PublishedEventModels,
+          linters.References,
           linters.SortAttribute,
           linters.SortParameterDefault,
           linters.StandardResponse,
